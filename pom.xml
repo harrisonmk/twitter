@@ -15,9 +15,7 @@
 	<description>projeto criando o twitter com spring</description>
 
 	<properties>
-		<java.version>11</java.version>
-	 <maven.compiler.source>13</maven.compiler.source>
-	 <maven.compiler.target>13</maven.compiler.target>
+		 <java.version>11</java.version>
 	</properties>
 
 	<dependencies>
